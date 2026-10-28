@@ -1,0 +1,3 @@
+interface:
+  display_name: "ai-me-ai"
+  short_description: "先检查目标、验收与约束；缺项先澄清，完善提示词后由用户决定启动"
